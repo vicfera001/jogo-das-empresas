@@ -1,5 +1,16 @@
 # 🏭 jogo-das-empresas
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/vicfera001/jogo-empresas?color=blue" alt="Licença">
+  <img src="https://img.shields.io/github/last-commit/vicfera001/jogo-empresas" alt="Último commit">
+  <img src="https://img.shields.io/github/contributors/vicfera001/jogo-empresas" alt="Contribuidores">
+</p>
+
+<p align="center">
+  <strong>Simulação interativa para o ensino de gestão e matemática financeira</strong><br>
+  Um jogo educacional que integra tomada de decisão empresarial, planejamento e pensamento lógico.
+</p>
+
 <div align="center">
   <img src="assets/screenshot.png" width="600" alt="Screenshot do Jogo">
    
