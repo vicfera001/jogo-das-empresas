@@ -28,7 +28,7 @@ Jogo de estratégia empresarial onde os jogadores competem pelo domínio de merc
 ## 🚀 Como Executar
 ```bash
 # Clone o repositório
-git clone https://github.com/vicfera001/jogo-empresas.git
+git clone https://github.com/vicfera001/jogo-das-empresas.git
 
 # Abra no navegador (não requer servidor)
 open index.html
