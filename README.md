@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="assets/screenshot.png" width="600" alt="Screenshot do Jogo">
+  (https://github.com/user-attachments/assets/6dc62ed4-e3f8-4744-847a-298ee43fc21f)
   
   ![GitHub](https://img.shields.io/github/license/vicfera001/jogo-empresas?color=blue)
   ![GitHub last commit](https://img.shields.io/github/last-commit/vicfera001/jogo-empresas)
