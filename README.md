@@ -1,7 +1,7 @@
 # 🏭 jogo-das-empresas
 
 <div align="center">
-  <img src="assets/screenshot.png" width="600" alt="Screenshot do Jogo">
+  <img src="assets/Captura de tela 2025-05-19 224613.png" width="600" alt="Screenshot do Jogo">
   
   ![GitHub](https://img.shields.io/github/license/vicfera001/jogo-empresas?color=blue)
   ![GitHub last commit](https://img.shields.io/github/last-commit/vicfera001/jogo-empresas)
