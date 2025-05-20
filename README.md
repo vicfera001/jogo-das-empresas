@@ -63,21 +63,4 @@ Teste as mudanças em index.html
 📜 Licença
 Distribuído sob licença MIT. Veja LICENSE para mais informações.
 
-<div align="center"> Desenvolvido com ❤️ por Victor (https://github.com/vicfera001) - 📧 vicfera75@gmail.com </div> ```
-🔍 Elementos Estratégicos Incluídos:
-Badges Dinâmicas - Mostram atividade do projeto
-
-Seção de "Áreas que Precisam de Ajuda" - Atrai colaboradores
-
-Tabela de Mecânicas - Explica rápido o jogo
-
-Fluxo Visual - Screenshot + GIF (adicione um arquivo /assets/gameplay.gif)
-
-Call-to-Action - Links para demo e issues
-
-📌 Como Personalizar:
-Substitua seu-user pelo seu GitHub username
-
-Adicione screenshots reais em /assets/screenshot.png
-
-Liste suas necessidades específicas na seção de colaboração.
+Desenvolvido com ❤️ por Victor (https://github.com/vicfera001) - 📧 vicfera75@gmail.com
